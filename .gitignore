@@ -1,0 +1,5 @@
+bin/*
+jinput-*
+lwjgl.dll
+OpenAL*
+*.so

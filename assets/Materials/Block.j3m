@@ -1,0 +1,6 @@
+Material Block : Common/MatDefs/Light/Lighting.j3md {
+  MaterialParameters {
+    DiffuseMap: Flip Textures/Block.png
+    Shininess: 8
+  }
+}

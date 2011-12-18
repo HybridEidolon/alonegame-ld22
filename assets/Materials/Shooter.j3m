@@ -1,0 +1,14 @@
+Material Shooter : Common/MatDefs/Light/Lighting.j3md {
+  Transparency On
+  MaterialParameters {
+    DiffuseMap: Flip Textures/Shooter.png
+    UseAlpha: true
+    AlphaDiscardThreshold: 0.9
+    Shininess: 8
+  }
+  AdditionalRenderState {
+    Blend Alpha
+    AlphaTestFalloff 0.5
+    FaceCull Off
+  }
+}

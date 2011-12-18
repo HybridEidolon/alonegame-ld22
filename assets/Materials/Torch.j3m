@@ -1,0 +1,13 @@
+Material Torch : Common/MatDefs/Light/Lighting.j3md {
+  Transparent On
+  MaterialParameters {
+    DiffuseMap: Flip Textures/Torch.png
+    UseAlpha: true
+    AlphaDiscardThreshold: 0.9
+    Shininess: 4
+  }
+  AdditionalRenderState {
+    Blend Alpha
+    AlphaTestFalloff 0.9
+  }
+}

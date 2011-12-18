@@ -1,0 +1,13 @@
+Material Key : Common/MatDefs/Light/Lighting.j3md {
+  Transparent On
+  MaterialParameters {
+    DiffuseMap: Flip Textures/Key.png
+    UseAlpha: true
+    AlphaDiscardThreshold: 0.9
+    Shininess: 64
+  }
+  AdditionalRenderState {
+    Blend Alpha
+    AlphaTestFalloff 0.9
+  }
+}

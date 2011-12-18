@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="assets"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="lib/lib/eventbus.jar"/>
+	<classpathentry kind="lib" path="lib/lib/j-ogg-oggd.jar"/>
+	<classpathentry kind="lib" path="lib/lib/j-ogg-vorbisd.jar"/>
+	<classpathentry kind="lib" path="lib/lib/jinput.jar"/>
+	<classpathentry kind="lib" path="lib/lib/jME3-core.jar" sourcepath="lib/source"/>
+	<classpathentry kind="lib" path="lib/lib/jME3-desktop.jar" sourcepath="lib/source"/>
+	<classpathentry kind="lib" path="lib/lib/jME3-jogg.jar" sourcepath="lib/source"/>
+	<classpathentry kind="lib" path="lib/lib/jME3-lwjgl-natives.jar" sourcepath="lib/source"/>
+	<classpathentry kind="lib" path="lib/lib/jME3-lwjgl.jar" sourcepath="lib/source"/>
+	<classpathentry kind="lib" path="lib/lib/jME3-plugins.jar" sourcepath="lib/source"/>
+	<classpathentry kind="lib" path="lib/lib/lwjgl.jar"/>
+	<classpathentry kind="lib" path="lib/lib/noise-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="lib/lib/stack-alloc.jar"/>
+	<classpathentry kind="lib" path="lib/lib/vecmath.jar"/>
+	<classpathentry kind="lib" path="lib/lib/xmlpull-xpp3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

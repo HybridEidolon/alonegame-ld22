@@ -1,0 +1,12 @@
+Material ShootOrb : Common/MatDefs/Light/Lighting.j3md {
+  Transparency On
+  MaterialParameters {
+    DiffuseMap: Flip Textures/ShootOrb.png
+    Shininess: 64f;
+  }
+  AdditionalRenderState {
+    Blend Alpha
+    AlphaTestFalloff 0.5
+    FaceCull Off
+  }
+}

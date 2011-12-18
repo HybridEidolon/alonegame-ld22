@@ -1,0 +1,11 @@
+Material Player : Common/MatDefs/Misc/Unshaded.j3md {
+  Transparency On
+  MaterialParameters {
+    ColorMap: Flip Textures/Player.png
+  }
+  AdditionalRenderState {
+    Blend Alpha
+    AlphaTestFalloff 0.5
+    FaceCull Off
+  }
+}

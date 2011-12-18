@@ -1,0 +1,6 @@
+Material Floor : Common/MatDefs/Light/Lighting.j3md {
+  MaterialParameters {
+    DiffuseMap: Flip Textures/Floor.png
+    Shininess: 8
+  }
+}
